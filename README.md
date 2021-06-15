@@ -5,4 +5,5 @@ Now my favorite kinds of Pizza:
 
 Primavera:  toppings: cheese, bacon and corn
 Capresa: extra slice of tomatos, basil and Motasarella cheese
-Philadelphia: onions, bacon, Mushroom, phyladelphia cheese and normal cheese pizza 
+Philadelphia: onions, bacon, Mushroom, phyladelphia cheese and normal cheese pizza
+Please: not pineapple or anchovy  
